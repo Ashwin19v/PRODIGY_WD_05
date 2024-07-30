@@ -14,9 +14,9 @@ body {
 }
 
 header {
-   position: fixed;
-  width: 100%;
   background: #00796b;
+  position: fixed;
+  width: 100%;
   color: #fff;
   padding: 1rem 0;
 }
@@ -80,6 +80,7 @@ section {
   flex: 1;
   margin-right: 20px;
   max-width: 500px;
+  margin-top: 60px;
 }
 
 #about .about h1 {
@@ -100,6 +101,7 @@ section {
 }
 
 #about .about-img {
+  margin-top: 60px;
   flex: 1;
   max-width: 400px;
 }
